@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+Slab|Fjalla+One');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab|Roboto');
 
 *{
     padding: 0;
@@ -8,7 +8,7 @@
 html{
     font-size: 16px;
     line-height: 1.6;
-    font-family: 'Fjalla One', 'Arial Black', sans-serif;
+    font-family: 'Roboto', 'Arial Black', sans-serif;
 }
 html,body{
     background-color: #d4d4d4;
